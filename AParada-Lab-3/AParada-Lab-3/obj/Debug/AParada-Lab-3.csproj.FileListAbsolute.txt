@@ -1,0 +1,13 @@
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\bin\Debug\AParada-Lab-3.exe.config
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\bin\Debug\AParada-Lab-3.exe
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\bin\Debug\AParada-Lab-3.pdb
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\obj\Debug\AParada-Lab-3.csproj.AssemblyReference.cache
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\obj\Debug\AParada_Lab_3.MainForm.resources
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\obj\Debug\AParada_Lab_3.Properties.Resources.resources
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\obj\Debug\AParada-Lab-3.csproj.GenerateResource.cache
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\obj\Debug\AParada-Lab-3.csproj.CoreCompileInputs.cache
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\obj\Debug\AParada-Lab-3.exe
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\obj\Debug\AParada-Lab-3.pdb
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\bin\Debug\StatesDB.mdf
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\bin\Debug\StatesDB_log.ldf
+C:\Users\Angel Parada\source\repos\AParada-Lab-3\AParada-Lab-3\obj\Debug\AParada_Lab_3.DetailForm.resources
